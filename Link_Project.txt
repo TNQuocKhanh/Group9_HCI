@@ -1,0 +1,5 @@
+Link API - backend: https://github.com/NguyenKyHai/EWebProject
+Link frontend Admin: https://github.com/TNQuocKhanh/ewebproject_admin
+Link frontend Shopping:  https://github.com/TNQuocKhanh/ewebproject
+Link Figma: https://www.figma.com/file/jVeiOsogGm4unfQw8RkRCh/Untitled?node-id=4%3A128&t=HY6rKpUY9GMBymat-0
+Link Notion: https://www.notion.so/052a760e04fa43358aeb0198f1b1c7bd?v=c4182fa929f24c4fadfbc1d6e47aca87
